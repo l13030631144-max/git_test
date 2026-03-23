@@ -1,0 +1,18 @@
+{
+    "default": {
+        "features": {
+            "messages": {
+                "_type": "Value"
+            },
+            "images": {
+                "_type": "Value"
+            }
+        },
+        "splits": {
+            "train": {
+                "name": "train",
+                "dataset_name": "dataset_lora_agent"
+            }
+        }
+    }
+}
